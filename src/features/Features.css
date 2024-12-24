@@ -1,0 +1,32 @@
+p {
+    color: black;
+}
+
+.features-container {
+    justify-content: space-around;
+    padding: 20px;
+    font-weight: bolder;
+    flex-wrap: wrap;
+}
+
+.features {
+    text-align: left;
+    height: 157px;
+    width: 229px;
+    background-color: blanchedalmond;
+    padding: 20px;
+    border-radius: 13.0px;
+    margin: 20px 6px;
+}
+
+.features h2 {
+    color: #000000;
+    font-weight: lighter;
+}
+
+/* media {max-width: 1018px} {
+    .features-container {
+        display: block;
+    },
+
+} */

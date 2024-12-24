@@ -1,0 +1,2 @@
+Make an array 
+each < or > will move the array by 1 or -1
